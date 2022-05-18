@@ -1,0 +1,24 @@
+{
+  "name": "trybe-futebol-club",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:frontend": "cd app/frontend && npm install",
+    "start:backend": "cd app/backend && npm install",
+    "instal:backend-frontend": "npm run start:frontend && npm run start:backend",
+    "compose:up": "(cd app && docker-compose up -d --build)",
+    "compose:down": "(cd app && docker-compose down --remove-orphans)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoSantosP/trybe-futebol-club.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoSantosP/trybe-futebol-club/issues"
+  },
+  "homepage": "https://github.com/JoaoSantosP/trybe-futebol-club#readme"
+}
