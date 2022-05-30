@@ -14,7 +14,7 @@ Olá! Este projeto foi desenvolvido para estudos próprios durante o curso que e
 
 # Como rodar na sua maquina
 
- - [ ] Clonar o repositório
- - [ ] Rodar `npm install` na raiz do projeto
- - [ ] Rodar `npm install` na pasta do frontend e no backend
- - [ ] Rodar o comando `npm run compose:up` na raiz do projeto para subir os containers
+ - Clonar o repositório
+ - Rodar `npm install` na raiz do projeto
+ - Rodar `npm install` na pasta do frontend e no backend
+ - Rodar o comando `npm run compose:up` na raiz do projeto para subir os containers
