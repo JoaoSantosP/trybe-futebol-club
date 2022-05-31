@@ -1,6 +1,6 @@
 # trybe-futebol-club
 
-Este projeto foi desenvolvido para estudos próprios durante o curso que estou fazendo na trybe, que exibe partidas de futebol podendo edita-las ou criar novas partidas
+Este projeto foi desenvolvido para estudos próprios durante o curso que estou fazendo na trybe, que exibe partidas de futebol podendo editá-las ou criar novas partidas
 
 ## Tecnologias utilizadas
 
