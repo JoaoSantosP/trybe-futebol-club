@@ -20,4 +20,3 @@ Este projeto foi desenvolvido para estudos próprios durante o curso que estou f
  - Rodar `npm run prestart`na pasta do backend
  - Rodar o comando `npm run compose:up` na raiz do projeto para subir os containers
  - Acessar http://localhost:3000 para ja ver funcionando
- -
