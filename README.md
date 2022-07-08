@@ -12,9 +12,11 @@ Este projeto foi desenvolvido para estudos próprios durante o curso que estou f
  - Chai
  - Sinon
 
-# Como rodar na sua maquina
+# Como rodar
 
- - Clonar o repositório
+ - Clonar este repositório
  - Rodar `npm install` na raiz do projeto
  - Rodar `npm install` na pasta do frontend e no backend
+ - Rodar `npm run prestart`na pasta do backend
  - Rodar o comando `npm run compose:up` na raiz do projeto para subir os containers
+ - Rodar `npm start` na pasta do frontend
