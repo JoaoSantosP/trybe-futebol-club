@@ -19,4 +19,5 @@ Este projeto foi desenvolvido para estudos próprios durante o curso que estou f
  - Rodar `npm install` na pasta do frontend e no backend
  - Rodar `npm run prestart`na pasta do backend
  - Rodar o comando `npm run compose:up` na raiz do projeto para subir os containers
- - Rodar `npm start` na pasta do frontend
+ - Acessar http://localhost:3000 para ja ver funcionando
+ -
